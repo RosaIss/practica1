@@ -1,0 +1,12 @@
+Crear un archivo llamado ".gitignore" git usara las reglas cuando vea el archivo en el repositorio. Se le tiene que hacer un commit al .gitignore para subirlo al repositorio y compartir esa lista de reglas a otros usuarios que quieran clonar el repositorio.
+
+Ejemplo del contenido del archivo .gitignore
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.s
